@@ -1,1 +1,2 @@
+alpine
 ghcr.io/accel-sim/accel-sim-framework:ubuntu-24.04-cuda-12.8
